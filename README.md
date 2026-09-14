@@ -78,7 +78,14 @@ A project focused on helping users analyze and explore job-related information.
   <img src="https://github-readme-stats.vercel.app/api?username=sidhkataria222&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222&layout=compact&theme=tokyonight" height="170"/>
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222&theme=tokyonight"
+    alt="GitHub Streak Stats"
+  />
+</p>
 ---
 
 ## 🤝 Connect With Me
