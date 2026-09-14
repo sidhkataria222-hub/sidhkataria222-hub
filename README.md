@@ -48,7 +48,14 @@ I'm a **B.Tech student** passionate about **backend development, software engine
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ## 🚀 What I'm Learning
