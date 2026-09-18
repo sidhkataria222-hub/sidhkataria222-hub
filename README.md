@@ -81,7 +81,53 @@ A project focused on helping users analyze and explore job-related information.
 
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486&include_all_commits=true&count_private=true"
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486"
+    width="49%"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=0D1117&border=20B486&stroke=20B486&ring=20B486&fire=20B486&currStreakNum=9AD9D8&sideNums=9AD9D8&currStreakLabel=20B486&sideLabels=9AD9D8&dates=9AD9D8&hide_border=true"
+    width="90%"
+  />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
+    width="90%"
+  />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=0D1117&color=9AD9D8&line=20B486&point=9AD9D8&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=20B486&style=for-the-badge"
+  />
+</p>
 <p align="center">
 
   <!-- GitHub Stats -->
