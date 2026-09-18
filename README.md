@@ -83,7 +83,78 @@ A project focused on helping users analyze and explore job-related information.
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2"
+    width="48%"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=07141A&border=00CDB5&stroke=00CDB5&ring=00E5C3&fire=00E5C3&currStreakNum=9DE7E2&sideNums=9DE7E2&currStreakLabel=00E5C3&sideLabels=9DE7E2&dates=9DE7E2&hide_border=false&border_radius=12"
+    width="95%"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
+    width="95%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=07141A&color=9DE7E2&line=00E5C3&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=00CDB5&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
  ## 📊 GitHub Stats
 
 <p align="center">
