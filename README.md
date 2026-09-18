@@ -80,7 +80,75 @@ A project focused on helping users analyze and explore job-related information.
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&theme=tokyonight&hide_border=true&border_radius=10"
+    height="200"
+  />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    width="90%"
+  />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidhkataria222&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222&layout=compact&theme=tokyonight" height="170"/>
