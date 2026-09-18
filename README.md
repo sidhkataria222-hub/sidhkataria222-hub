@@ -83,91 +83,43 @@ A project focused on helping users analyze and explore job-related information.
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
+
+ ## 📊 GitHub Stats
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486&include_all_commits=true&count_private=true"
-    width="49%"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
+    height="180"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486"
-    width="49%"
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
+    height="180"
   />
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=0D1117&border=20B486&stroke=20B486&ring=20B486&fire=20B486&currStreakNum=9AD9D8&sideNums=9AD9D8&currStreakLabel=20B486&sideLabels=9AD9D8&dates=9AD9D8&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=07141A&border=00CDB5&stroke=00CDB5&ring=00E5C3&fire=00E5C3&currStreakNum=9DE7E2&sideNums=9DE7E2&currStreakLabel=00E5C3&sideLabels=9DE7E2&dates=9DE7E2&hide_border=false&border_radius=12"
     width="90%"
+    alt="GitHub Streak"
   />
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
+  <img
     src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
-    width="90%"
-  />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=0D1117&color=9AD9D8&line=20B486&point=9AD9D8&area=true&hide_border=true"
     width="95%"
+    alt="GitHub Trophies"
   />
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=20B486&style=for-the-badge"
-  />
-</p>
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&theme=tokyonight&hide_border=true&border_radius=10"
-    height="200"
-  />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    width="90%"
-  />
-
 </p>
 
 ---
@@ -175,12 +127,11 @@ A project focused on helping users analyze and explore job-related information.
 ## 📈 Contribution Graph
 
 <p align="center">
-
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=07141A&color=9DE7E2&line=00E5C3&point=FFFFFF&area=true&hide_border=true"
     width="95%"
+    alt="Contribution Graph"
   />
-
 </p>
 
 ---
@@ -188,26 +139,11 @@ A project focused on helping users analyze and explore job-related information.
 ## 👀 Profile Views
 
 <p align="center">
-
   <img
-    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=00CDB5&style=for-the-badge"
     alt="Profile Views"
   />
-
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhkataria222&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222&layout=compact&theme=tokyonight" height="170"/>
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sidhkataria222&theme=tokyonight"
-    alt="GitHub Streak Stats"
-  />
-</p>
----
 
 ## 🤝 Connect With Me
 
