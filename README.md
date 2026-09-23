@@ -227,3 +227,49 @@ A project focused on helping users analyze and explore job-related information.
 ---
 
 ### ⚡ Keep Learning. Keep Building. Keep Improving.
+# 👋 Hi, I'm Sidh Kataria
+
+### 💻 B.Tech Backend Developer | Java | Spring Boot | DSA | AI
+
+I’m a passionate developer focused on **Backend Development, Data Structures & Algorithms, and AI-powered applications**. I enjoy building scalable applications, solving challenging programming problems, and continuously learning new technologies.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Student
+* 💻 Backend Developer
+* ☕ Working with **Java & Spring Boot**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🤖 Interested in **AI & AI Agents**
+* 🗄️ Learning **PostgreSQL & Database Design**
+* 🚀 Building real-world projects
+* 🌱 Continuously improving my development skills
+* 💼 Open to **internships, collaborations & developer opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,g
