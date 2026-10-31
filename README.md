@@ -9,6 +9,9 @@
 Building projects, solving problems, and learning by shipping.
 
 <p>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
   <a href="https://github.com/sidhkataria222-hub">
     <img src="https://img.shields.io/badge/GitHub-sidhkataria222--hub-20B486?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
