@@ -100,4 +100,105 @@ A campus water-refill directory designed to help students find nearby drinking-w
 
 ### 🔹 NEUROO
 
-A personal software project focused on building and experimenting with
+A personal software project focused on building and experimenting with application features.
+
+**Focus:** Software development and project building.
+
+<p align="center">
+  <a href="https://github.com/sidhkataria222-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-20B486?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&theme=dark&hide_border=true&background=0D1117&ring=20B486&fire=20B486&currStreakLabel=20B486&sideLabels=9AD9D8&currStreakNum=9AD9D8&sideNums=9AD9D8&dates=9AD9D8"
+    width="75%"
+    alt="Current and Longest GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=0D1117&color=9AD9D8&line=20B486&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sidhkataria222-hub/sidhkataria222-hub/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
+
+<p align="center">
+  <i>Automatically generated with GitHub Actions.</i>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sidhkataria222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-20B486?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/sidh-kataria-a097a0389">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sidhkataria222-hub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-20B486?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+
+### ⚡ Keep Learning. Keep Building. Keep Improving.
+
+*Building today what I want to be proud of tomorrow.*
+
+</div>
