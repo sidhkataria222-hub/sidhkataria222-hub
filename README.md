@@ -1,271 +1,220 @@
-Hi, I'm Sidh Kataria 👋
+<!-- ==================== HEADER ==================== -->
 
- B.Tech Student | Backend Developer | Problem Solver 💻
+<div align="center">
 
-I'm a **B.Tech student** passionate about **backend development, software engineering, APIs, databases, and building real-world applications**.
+# Hey, I'm Sidh Kataria 👋
+
+### B.Tech Student | Backend Developer | Java | DSA | AI
+
+Building projects, solving problems, and learning by shipping.
+
+<p>
+  <a href="https://github.com/sidhkataria222-hub">
+    <img src="https://img.shields.io/badge/GitHub-sidhkataria222--hub-20B486?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/sidh-kataria-a097a0389">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sidhkataria222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-20B486?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE%20VIEWS&color=20B486&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ---
 
-👨‍💻 About Me
+<!-- ==================== ABOUT ==================== -->
 
-* 🎓 B.Tech Student
-* 💻 Backend Development enthusiast
-* 🔧 Interested in APIs, databases & server-side development
-* 🌱 Always learning and improving
-* 🚀 Building projects to strengthen my development skills
-* 📫 **Email:** [sidhkataria222@gmail.com](mailto:sidhkataria222@gmail.com)
+## 👨‍💻 About Me
 
----
+I'm a B.Tech student interested in backend engineering,
+problem-solving, and building practical software applications.
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sidhkataria222&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
----
-
-## 🚀 What I'm Learning
-
-* 🔹 Advanced Backend Development
-* 🔹 REST API Development
-* 🔹 Database Design
-* 🔹 Data Structures & Algorithms
-* 🔹 System Design
-* 🔹 Scalable Applications
+- ☕ Focused on Java and backend development.
+- 🧠 Practicing Data Structures and Algorithms.
+- ⚙️ Interested in REST APIs, databases, and system design.
+- 🤖 Exploring AI applications and AI agents.
+- 🚀 Building projects that solve real-world problems.
+- 🌱 Continuously learning and improving my skills.
+- 🤝 Open to internships, collaborations, and learning opportunities.
 
 ---
 
-## 📂 Projects
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" alt="Programming Languages"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend Technologies"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Developer Tools"/>
+</p>
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🎯 Current Focus
+
+- Strengthening Java and backend development.
+- Solving DSA problems on LeetCode.
+- Learning database design and optimization.
+- Building AI-powered applications.
+- Understanding system design and scalable architectures.
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Featured Projects
 
 ### 🔹 JobLens
+A project focused on exploring and analyzing job-related information.
 
-A project focused on helping users analyze and explore job-related information.
+**Focus:** APIs, data processing, and application development.
 
-**Focus:** Backend Development • APIs • Data Processing
+### 🔹 RefillMap
+A campus water-refill directory designed to help students find
+nearby drinking-water stations and check their availability.
 
----
+**Focus:** Frontend development, usability, and sustainability.
 
-## 📊 GitHub Stats
+### 🔹 NEUROO
+A personal software project focused on building and experimenting
+with application features.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2"
-    width="48%"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
+**Focus:** Software development and project building.
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=07141A&border=00CDB5&stroke=00CDB5&ring=00E5C3&fire=00E5C3&currStreakNum=9DE7E2&sideNums=9DE7E2&currStreakLabel=00E5C3&sideLabels=9DE7E2&dates=9DE7E2&hide_border=false&border_radius=12"
-    width="95%"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=07141A&color=9DE7E2&line=00E5C3&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=00CDB5&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
- ## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&hide_border=true&bg_color=07141A&title_color=00E5C3&text_color=9DE7E2&icon_color=00E5C3"
-    height="180"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&background=07141A&border=00CDB5&stroke=00CDB5&ring=00E5C3&fire=00E5C3&currStreakNum=9DE7E2&sideNums=9DE7E2&currStreakLabel=00E5C3&sideLabels=9DE7E2&dates=9DE7E2&hide_border=false&border_radius=12"
-    width="90%"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=07141A&color=9DE7E2&line=00E5C3&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sidhkataria222-hub&label=PROFILE+VIEWS&color=00CDB5&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="mailto:sidhkataria222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/sidhkataria222-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-20B486?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
 </p>
 
 ---
 
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sidhkataria222-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8&icon_color=20B486"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhkataria222-hub&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=20B486&text_color=9AD9D8"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+---
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sidhkataria222-hub&theme=dark&hide_border=true&background=0D1117&ring=20B486&fire=20B486&currStreakLabel=20B486&sideLabels=9AD9D8&currStreakNum=9AD9D8&sideNums=9AD9D8&dates=9AD9D8"
+    width="75%"
+    alt="Current and Longest GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<!-- ==================== TROPHIES ==================== -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sidhkataria222-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+<!-- ==================== ACTIVITY GRAPH ==================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidhkataria222-hub&bg_color=0D1117&color=9AD9D8&line=20B486&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sidhkataria222-hub/sidhkataria222-hub/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<!-- ==================== CONTACT ==================== -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sidhkataria222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-20B486?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/sidh-kataria-a097a0389">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sidhkataria222-hub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-20B486?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+
 ### ⚡ Keep Learning. Keep Building. Keep Improving.
-# 👋 Hi, I'm Sidh Kataria
 
-### 💻 B.Tech Backend Developer | Java | Spring Boot | DSA | AI
+*Building today what I want to be proud of tomorrow.*
 
-I’m a passionate developer focused on **Backend Development, Data Structures & Algorithms, and AI-powered applications**. I enjoy building scalable applications, solving challenging programming problems, and continuously learning new technologies.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Student
-* 💻 Backend Developer
-* ☕ Working with **Java & Spring Boot**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Interested in **AI & AI Agents**
-* 🗄️ Learning **PostgreSQL & Database Design**
-* 🚀 Building real-world projects
-* 🌱 Continuously improving my development skills
-* 💼 Open to **internships, collaborations & developer opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-</p>
-
-### 🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,g
+</div>
