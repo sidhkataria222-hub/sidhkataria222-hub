@@ -80,10 +80,6 @@ A project focused on helping users analyze and explore job-related information.
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img
